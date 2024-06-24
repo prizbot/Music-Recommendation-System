@@ -40,5 +40,5 @@ This project demonstrates the application of machine learning and natural langua
 For more details, visit the [project repository](https://github.com/prizbot/Music-Recommendation-System.git).
 
 For any inquiries or collaborations, feel free to reach out:
-- LinkedIn: [Priyadharshini NRS](www.linkedin.com/in/priyadharshininrs)
-- Email: [](mailto:priyadharshininrs@gmail.com)
+- LinkedIn: [Priyadharshini NRS](https://www.linkedin.com/in/priyadharshininrs)
+- Email: [Email](mailto:priyadharshininrs@gmail.com)
